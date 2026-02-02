@@ -1,0 +1,88 @@
+[
+    {
+        "hand": "left_hand",
+        "fingers": 3,
+        "direction": "DOWN",
+        "action": ["win","d"]
+    },
+    {
+        "hand": "left_hand",
+        "fingers": 3,
+        "direction": "UP",  
+        "action": ["win","d"]
+    },
+
+
+    {
+        "hand": "left_hand",
+        "fingers": 2,
+        "direction": "RIGHT",  
+        "action": ["alt","shift","tab"]
+    },
+    {   
+        "hand": "left_hand",
+        "fingers": 2,
+        "direction": "LEFT",  
+        "action": ["alt","tab"]
+    },
+
+
+
+
+
+
+    {
+        "hand": "right_hand",
+        "fingers": 5,
+        "direction": "DOWN",  
+        "action": ["volumedown"]        
+    },
+    {
+        "hand": "right_hand",
+        "fingers": 5,
+        "direction": "UP",  
+        "action": ["volumeup"]        
+    },
+    {
+        "hand": "right_hand",
+        "fingers": 5,
+        "direction": "RIGHT",  
+        "action": ["volumemute"] 
+               
+    },
+
+
+    {
+        "hand": "right_hand",
+        "fingers": 4,
+        "direction": "RIGHT",  
+        "action": ["nexttrack"] 
+               
+    },
+    {
+        "hand": "right_hand",
+        "fingers": 4,
+        "direction": "LEFT",  
+        "action": ["prevtrack"]        
+    },
+
+    
+    {
+        "hand": "right_hand",
+        "fingers": 4,
+        "direction": "UP",  
+        "action": ["playpause"]        
+    },
+    {
+        "hand": "right_hand",
+        "fingers": 4,
+        "direction": "DOWN",  
+        "action": ["pause"]        
+    }
+
+
+
+
+]
+
+
