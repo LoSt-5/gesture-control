@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs and local data
+*.log
+*.tmp
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Packaging
+*.manifest
+*.spec
+
+# Secrets (do not commit)
+.env
+.env.*
+*.pem
+credentials.json
+
+# Generated docs artifacts (keep tracked PNGs in doc/diagrams if desired)
+# Uncomment to ignore regenerated diagrams only:
+# doc/diagrams/*.png
+
+# Old / duplicate documentation at project root
+*.docx
+*.odt
+док-*.pdf
+gust-blo.png
+
+# Matplotlib cache when regenerating diagrams
+.matplotlib/
