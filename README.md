@@ -13,6 +13,7 @@ python main.py       # консольный режим (OpenCV), выход — 
 
 ## Документация
 
-- **PDF:** [doc/DOCUMENTATION.pdf](doc/DOCUMENTATION.pdf)
+- **Word (.docx):** `doc/DOCUMENTATION.docx` — программная документация (SWITCH-технология)
+- **Сборка docx:** `python doc/build_docx.py`
 - **Markdown:** [doc/DOCUMENTATION.md](doc/DOCUMENTATION.md)
 - Блок-схемы: `doc/diagrams/*.png`
